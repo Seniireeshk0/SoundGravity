@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="README.md">Русский</a> •
-  <a href="README.en.md">English</a> •
+  <a href="README.ru.md">Русский</a> •
+  <a href="README.md">English</a> •
   <a href="README.ua.md">Українська</a>
 </p>
 
