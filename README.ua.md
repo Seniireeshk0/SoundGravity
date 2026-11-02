@@ -1,10 +1,6 @@
 # 🎵 SoundGravity
 
 <p align="center">
-  <img src="assets/icon.png" width="128" height="128" alt="SoundGravity Logo">
-</p>
-
-<p align="center">
   <b>Утиліта для повної кастомізації звукових сповіщень у Google Antigravity</b><br>
   <i>Не подобається стандартний звук закінчення роботи чи сповіщення про необхідність втручання? Налаштуй під себе!</i>
 </p>
