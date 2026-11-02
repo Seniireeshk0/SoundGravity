@@ -1,10 +1,6 @@
 # 🎵 SoundGravity
 
 <p align="center">
-  <img src="assets/icon.png" width="128" height="128" alt="SoundGravity Logo">
-</p>
-
-<p align="center">
   <b>A comprehensive audio customization utility for Google Antigravity</b><br>
   <i>Don't like the default completion chime or action notification? Customize it your way!</i>
 </p>
